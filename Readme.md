@@ -17,7 +17,7 @@ Change `MaxSimultaneousThreads=8` to `MaxSimultaneousThreads=16`
 ### 1.3 Ingame editor mod  
 [boekkooi/CIV5_IGE_LINUX](https://github.com/boekkooi/CIV5_IGE_LINUX)  
 
-## [2 Left 4 dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/
+## [2 Left 4 dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
 ### 2.1 Chines font for L4D2 Linux
 Install this font:  
 ```shell
