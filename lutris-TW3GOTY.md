@@ -21,4 +21,9 @@ Under Ubuntu 18.04.2, NVIDIA drivers 390.116.
 
 ## Enjoy it.  
 
-It took me less than an hour to install it and the game opens successfully but i don't have time to test playing the game right now.  
+It took me less than an hour to install it and the game opens successfully but ~~i don't have time to test playing the game right now~~.  
+
+## Controller support
+Test the game tonight. It runs smoothly. For thoes who use a contorler to play, [this thread](https://forums.lutris.net/t/controller-joypad-setup-in-lutris-with-wine-steam/1204/2) may help you.  
+For me I use BETOP BTP-2126E controller and use the same setting as the thread.  
+![](https://user-images.githubusercontent.com/7792396/59964685-606c6580-9536-11e9-94a0-66e5e5f15f3b.png)
