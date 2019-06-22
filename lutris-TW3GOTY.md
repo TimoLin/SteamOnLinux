@@ -18,7 +18,6 @@ Under Ubuntu 18.04.2, NVIDIA drivers 390.116.
 
 ## Finally, copy your downloaded TW3-GOTY installergg files to the `gog` folder and then install the game through the script.
 `/home/myubuntu/game/cache/the-witcher-3-wild-hunt-game-of-the-year-edition/gog/`.  
-And then install the game through the script.  
 
 ## Enjoy it.  
 
