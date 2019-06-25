@@ -25,5 +25,7 @@ It took me less than an hour to install it and the game opens successfully but ~
 
 ## Controller support
 Test the game tonight. It runs smoothly. For thoes who use a contorler to play, [this thread](https://forums.lutris.net/t/controller-joypad-setup-in-lutris-with-wine-steam/1204/2) may help you.  
-For me I use BETOP BTP-2126E controller and use the same setting as the thread.  
+~~For me I use BETOP BTP-2126E controller and use the same setting as the thread~~.  
 ![](https://user-images.githubusercontent.com/7792396/59964685-606c6580-9536-11e9-94a0-66e5e5f15f3b.png)
+Unfortunately, this option doesn't work for me anymore and I really don't know why this option only worked once. I don't want to use keyboard :( .  
+I have bought TW3 in Steam several years ago and using Steam Play (Proton) it worked really well. So for now I use __Steam Play__ to play the `GOG version TW3`. The conroller works under my current `Proton 4.2-7`.
