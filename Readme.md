@@ -34,3 +34,8 @@ You can try to remove steam dir and reopen steam to let steam update itself.
 rm ~/.local/share/steam
 rm ~/.steam
 ```  
+
+## 4 Proton for Non-Steam games
+1. Right click the added non-steam game in your Library and click on `Properties`    
+2. Check option `Force the use of a specific Steam Play compatibility tool`  
+3. Enjoy it  
