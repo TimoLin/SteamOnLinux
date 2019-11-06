@@ -39,3 +39,17 @@ rm ~/.steam
 1. Right click the added non-steam game in your Library and click on `Properties`    
 2. Check option `Force the use of a specific Steam Play compatibility tool`  
 3. Enjoy it  
+
+## 5 Pillars of Eternity
+### 5.1 Mouse doesn't work under dual monitor
+Unplug one monitor, start game and mouse works. Then uncheck **Fullscreen** to avoid problems in dual monitor situations. Plug the other monitor back and you can play PoE under the window mode.
+### 5.2 Chinese language display problem
+If you use Chinese (Simplified or Traditional), there may be a problem displaying Chinese in the game, missing some text or characters for example. This is due to Microsoft Yahei(微软雅黑) font is not installed in your system.
+Here is a brief instruction to install Yahei font:  
+1. Get `msyh.ttc`, `msyhl.ttc` and `msyhbd.ttc` from Windows or internet.
+2. `cd /usr/share/fonts`
+3. `sudo mkdir WindowsFonts`
+4. `sudo cp YourFontPath/msyh*.ttc WindowsFonts/`
+5. `sudo chmod 755 /usr/share/fonts/WindowsFonts/*`
+6. `fc-cache`
+Start game and check if Chinese displays crectly.  
